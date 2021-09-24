@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Jiyo Choi
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -16,7 +16,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
+    twitter: https://twitter.com/jiyochoi
     github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
